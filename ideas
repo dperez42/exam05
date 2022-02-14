@@ -1,0 +1,4 @@
+Reemplazar en vim 
+:%s/hola/holo/g
+
+cp fichero ../path
